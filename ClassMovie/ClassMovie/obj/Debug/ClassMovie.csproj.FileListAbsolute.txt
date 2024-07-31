@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\bin\Debug\ClassMovie.exe.config
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\bin\Debug\ClassMovie.exe
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\bin\Debug\ClassMovie.pdb
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\obj\Debug\ClassMovie.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\obj\Debug\ClassMovie.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\obj\Debug\ClassMovie.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\obj\Debug\ClassMovie.exe
+D:\Мой диск\Projects\Labs\ClassMovie\ClassMovie\obj\Debug\ClassMovie.pdb

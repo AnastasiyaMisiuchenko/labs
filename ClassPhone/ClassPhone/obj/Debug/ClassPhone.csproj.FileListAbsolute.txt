@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\bin\Debug\ClassPhone.exe.config
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\bin\Debug\ClassPhone.exe
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\bin\Debug\ClassPhone.pdb
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\obj\Debug\ClassPhone.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\obj\Debug\ClassPhone.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\obj\Debug\ClassPhone.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\obj\Debug\ClassPhone.exe
+D:\Мой диск\Projects\Labs\ClassPhone\ClassPhone\obj\Debug\ClassPhone.pdb

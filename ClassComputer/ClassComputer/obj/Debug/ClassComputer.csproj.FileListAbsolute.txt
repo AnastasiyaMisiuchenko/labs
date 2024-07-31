@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\bin\Debug\ClassComputer.exe.config
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\bin\Debug\ClassComputer.exe
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\bin\Debug\ClassComputer.pdb
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\obj\Debug\ClassComputer.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\obj\Debug\ClassComputer.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\obj\Debug\ClassComputer.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\obj\Debug\ClassComputer.exe
+D:\Мой диск\Projects\Labs\ClassComputer\ClassComputer\obj\Debug\ClassComputer.pdb

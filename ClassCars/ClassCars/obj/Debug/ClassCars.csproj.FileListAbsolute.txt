@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\bin\Debug\ClassCars.exe.config
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\bin\Debug\ClassCars.exe
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\bin\Debug\ClassCars.pdb
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\obj\Debug\ClassCars.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\obj\Debug\ClassCars.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\obj\Debug\ClassCars.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\obj\Debug\ClassCars.exe
+D:\Мой диск\Projects\Labs\ClassCars\ClassCars\obj\Debug\ClassCars.pdb

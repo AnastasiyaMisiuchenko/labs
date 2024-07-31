@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\obj\Debug\ClassCity.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\obj\Debug\ClassCity.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\obj\Debug\ClassCity.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\bin\Debug\ClassCity.exe.config
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\bin\Debug\ClassCity.exe
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\bin\Debug\ClassCity.pdb
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\obj\Debug\ClassCity.exe
+D:\Мой диск\Projects\Labs\ClassCity\ClassCity\obj\Debug\ClassCity.pdb

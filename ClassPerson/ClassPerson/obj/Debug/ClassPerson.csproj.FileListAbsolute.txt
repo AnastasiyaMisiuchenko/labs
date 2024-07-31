@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\bin\Debug\ClassPerson.exe.config
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\bin\Debug\ClassPerson.exe
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\bin\Debug\ClassPerson.pdb
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\obj\Debug\ClassPerson.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\obj\Debug\ClassPerson.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\obj\Debug\ClassPerson.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\obj\Debug\ClassPerson.exe
+D:\Мой диск\Projects\Labs\ClassPerson\ClassPerson\obj\Debug\ClassPerson.pdb

@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\bin\Debug\ClassEmployee.exe.config
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\bin\Debug\ClassEmployee.exe
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\bin\Debug\ClassEmployee.pdb
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.exe
+D:\Мой диск\Projects\Labs\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.pdb
